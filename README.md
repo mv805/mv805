@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mv805
-- 👀 I’m interested in learning to code with Java
-- 🌱 I’m currently learning basics and syntax
+- 👀 I’m interested in learning to code and build responsive websites
+- 🌱 I’m currently learning basics and syntax of java and layouts with HTML and CSS
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me ...
 
