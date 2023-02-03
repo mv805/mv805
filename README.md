@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Matt Villa
-- 👀 I’m interested in learning web development and all related technologies
-- 🌱 I’m currently learning fundamentals of full stack web development
-- 💞️ I’m looking to collaborate on any open source projects
-- 📫 How to reach me ...
+👋 Hi, I’m @Matt Villa
+
+I’m interested in learning web development and software development fundamentals
+
+I’m currently learning full stack web development and pursuing my B.S. in Computer Science
+
 
 <!---
 mv805/mv805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
