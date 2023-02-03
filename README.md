@@ -2,7 +2,7 @@
 
 I’m interested in learning web development and software development fundamentals
 
-I’m currently learning full stack web development and pursuing my B.S. in Computer Science
+I am a mechanical engineer working on aerospace products and i’m currently learning full stack web development and pursuing my B.S. in Computer Science
 
 
 <!---
