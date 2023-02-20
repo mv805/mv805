@@ -1,8 +1,6 @@
 👋 Hi, I’m @Matt Villa
 
-I’m interested in learning web development and software development fundamentals
-
-I am a mechanical engineer working on aerospace products and i’m currently learning full stack web development and pursuing my B.S. in Computer Science
+I am an experienced mechanical design engineer working through a transition to software development and am currently pursuing my B.S. in Computer Science. 
 
 
 <!---
