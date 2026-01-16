@@ -1,6 +1,6 @@
 👋 Hi, I’m @Matt Villa
 
-I am an experienced mechanical design engineer and novice developer
+I am an experienced mechanical design engineer and novice developer. Dont mind my scattered repos, i do alot of tinkering...
 
 
 <!---
